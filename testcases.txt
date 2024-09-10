@@ -1,3 +1,11 @@
+Assignment 2
+Class: Software Testing
+Professor: Esa Huiskonen
+Student: Dan Le
+Team : 4
+Github link: https://github.com/dandev947366/triangletest
+Youtube link: https://youtu.be/OhyvnSqknoU
+
 Test Case Table for classify_triangle Function
 
 1. Test Case: test_equilateral_triangle
